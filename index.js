@@ -58,4 +58,4 @@ function countDown() {
 	}
 	return countDown
 }
-countDown(10)
+countDown()
